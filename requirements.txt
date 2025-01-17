@@ -10,3 +10,6 @@ langchain-openapi
 beautifulsoup4
 streamlit
 langchain-ollama
+Fastapi
+uvicorn
+langserve
